@@ -1,0 +1,1 @@
+System.register(["./index-legacy-vFOGBlr2.js","./useTitle-legacy-BhgmOZBJ.js"],function(e,t){"use strict";var i,r,c,n;return{setters:[e=>{i=e.D,r=e.c0,c=e.aR},e=>{n=e.b}],execute:function(){e("default",()=>(n("tenant.sidemenu.certificates"),i(c,{h:"$full",get children(){return i(r,{children:"Certificates"})}})))}}});

@@ -1,0 +1,1 @@
+System.register(["./index-legacy-vFOGBlr2.js"],function(e,t){"use strict";var r,n,c,a,u,s;return{setters:[e=>{r=e.d_,n=e.D,c=e.an,a=e.cZ,u=e.a8,s=e.am}],execute:function(){e("default",()=>{const[e]=r();return n(s,{get loading(){return e.loading},get children(){return n(c,{class:"word-wrap",get children(){return e()?.content},get ext(){return a(u.obj.name)},toc:!0})}})})}}});

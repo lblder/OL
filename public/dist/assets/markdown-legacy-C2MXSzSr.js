@@ -1,0 +1,1 @@
+System.register(["./index-legacy-BmFN10UP.js"],function(e,t){"use strict";var n,r,c,u,a,i;return{setters:[e=>{n=e.dM,r=e.D,c=e.an,u=e.cO,a=e.a8,i=e.am}],execute:function(){e("default",()=>{const[e]=n();return r(i,{get loading(){return e.loading},get children(){return r(c,{get children(){return e()?.content},get ext(){return u(a.obj.name)},toc:!0})}})})}}});

@@ -1,0 +1,1 @@
+import{D as e,c0 as a,aR as t}from"./index-BQ4pjYar.js";import{b as n}from"./useTitle-BSrXWE9N.js";const o=()=>(n("tenant.sidemenu.data"),e(t,{h:"$full",get children(){return e(a,{children:"Data Management"})}}));export{o as default};

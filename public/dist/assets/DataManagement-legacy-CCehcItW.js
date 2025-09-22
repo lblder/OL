@@ -1,0 +1,1 @@
+System.register(["./index-legacy-BmFN10UP.js","./useTitle-legacy-qyCEHHxL.js"],function(e,t){"use strict";var n,a,r,s;return{setters:[e=>{n=e.D,a=e.c3,r=e.aR},e=>{s=e.b}],execute:function(){e("default",()=>(s("tenant.sidemenu.data"),n(r,{h:"$full",get children(){return n(a,{children:"Data Management"})}})))}}});

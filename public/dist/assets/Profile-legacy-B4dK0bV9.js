@@ -1,0 +1,1 @@
+System.register(["./index-legacy-BmFN10UP.js","./useTitle-legacy-qyCEHHxL.js"],function(e,t){"use strict";var r,n,i,l;return{setters:[e=>{r=e.D,n=e.c3,i=e.aR},e=>{l=e.b}],execute:function(){e("default",()=>(l("tenant.sidemenu.profile"),r(i,{h:"$full",get children(){return r(n,{children:"Profile"})}})))}}});

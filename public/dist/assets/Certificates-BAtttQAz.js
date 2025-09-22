@@ -1,0 +1,1 @@
+import{D as e,c0 as t,aR as r}from"./index-BQ4pjYar.js";import{b as a}from"./useTitle-BSrXWE9N.js";const s=()=>(a("tenant.sidemenu.certificates"),e(r,{h:"$full",get children(){return e(t,{children:"Certificates"})}}));export{s as default};
