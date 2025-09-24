@@ -1,0 +1,1 @@
+System.register(["./index-legacy-VniDFTuT.js","./asciinema-player-legacy-CUfnaads.js"],function(e,t){"use strict";var r,n,u,a,c;return{setters:[e=>{r=e.a9,n=e.o,u=e.a2,a=e.P},e=>{c=e.c}],execute:function(){e("default",function(){let e;return r(()=>{c(a.raw_url,e)}),n(u,{w:"$full",ref(t){"function"==typeof e?e(t):e=t}})})}}});

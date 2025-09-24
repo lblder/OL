@@ -1,0 +1,1 @@
+System.register(["./index-legacy-VniDFTuT.js"],function(e,r){"use strict";var t,n,c,s,u;return{setters:[e=>{t=e.K,n=e.o,c=e.as,s=e.q,u=e.S}],execute:function(){e("I",e=>{const[r,a]=t(!1);return n(u,{get when(){return!r()},get fallback(){return e.fallbackErr},get children(){return n(c,s(e,{onError:()=>{a(!0)}}))}})})}}});

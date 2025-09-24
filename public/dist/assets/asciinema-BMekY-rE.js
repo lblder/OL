@@ -1,0 +1,1 @@
+import{a9 as t,o as a,a2 as f,P as n}from"./index-CsB5zT4W.js";import{c as u}from"./asciinema-player-BCcp8-xS.js";function i(){let o;return t(()=>{u(n.raw_url,o)}),a(f,{w:"$full",ref(e){var r=o;typeof r=="function"?r(e):o=e}})}export{i as default};

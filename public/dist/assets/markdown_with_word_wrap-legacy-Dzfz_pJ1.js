@@ -1,0 +1,1 @@
+System.register(["./index-legacy-VniDFTuT.js"],function(e,t){"use strict";var r,n,c,u,a,o;return{setters:[e=>{r=e.dN,n=e.o,c=e.a4,u=e.cG,a=e.P,o=e.a3}],execute:function(){e("default",()=>{const[e]=r();return n(o,{get loading(){return e.loading},get children(){return n(c,{class:"word-wrap",get children(){return e()?.content},get ext(){return u(a.obj.name)},toc:!0})}})})}}});

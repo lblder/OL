@@ -1,0 +1,1 @@
+System.register([],function(e,t){"use strict";return{execute:function(){e("c",function(){let e=!1,t=[];return{acquire:()=>new Promise(n=>{e?t.push(n):(e=!0,n())}),release:()=>{t.length>0?t.shift()():e=!1}}})}}});
